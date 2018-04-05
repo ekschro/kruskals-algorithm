@@ -1,3 +1,7 @@
+# Kruskal's Algorithm
+# Ericsson Schroeter
+# Created: 4/4/18
+
 import sys, heapq
 
 # Class Set
