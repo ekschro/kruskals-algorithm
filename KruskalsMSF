@@ -61,7 +61,8 @@ def findSet(x):
         x.parent = z
         return z
 
-# Begin program
+# Begin implementation of Kruskal's
+
 # Read in input filename
 filename = sys.argv[1]
 
