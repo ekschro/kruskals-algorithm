@@ -1,11 +1,6 @@
-CSE 2331: Kruskal’s Algorithm Programming Assignment
-Dr. Diego Zaccai
+Kruskal’s Algorithm Concept
 Ericsson Schroeter
 April 10, 2018
-
-                         #######################
------------------------- ###    KruskalMSF   ### -------------------------------
-                         #######################
 
 # How to run the python3 script:
 
