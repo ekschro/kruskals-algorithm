@@ -1,8 +1,8 @@
-Kruskal’s Algorithm Concept
+# Kruskal’s Algorithm Concept
 Ericsson Schroeter
 April 10, 2018
 
-# How to run the python3 script:
+### How to run the python3 script:
 
 Assuming you have python3 on your machine and you are in the directory containing
 the KruskalMSF script, you can enter the command below.
