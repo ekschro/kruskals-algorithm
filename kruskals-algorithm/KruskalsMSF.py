@@ -1,6 +1,5 @@
-# CSE 2331: Kruskal's Algorithm Programming Assignment
+# Kruskal's Algorithm Concept
 # Ericsson Schroeter
-# Dr. Diego Zaccai
 # Created: 4/4/18
 
 import sys, heapq, re
